@@ -1,0 +1,265 @@
+body {
+  margin: 0;
+}
+#l1 {
+  list-style: none;
+}
+#i1 {
+  height: 35rem;
+  width: 100%;
+  /* position:absolute; */
+}
+#p1 {
+  text-align: center;
+  font-size: 3rem;
+  margin-bottom: 0;
+}
+#p2 {
+  text-align: center;
+  font-size: 1.5rem;
+}
+#p3 {
+  margin-top: 2rem;
+  text-align: justify;
+  margin-left: 20rem;
+  margin-right: 20rem;
+  font-size: 1.5rem;
+}
+#ticketcount {
+  width: 57%;
+  border: solid;
+  padding-bottom: 0.5rem;
+  padding-top: 0.5rem;
+  padding-left: 0.5rem;
+}
+#listticket {
+  list-style: none;
+}
+- #availabletickets {
+  margin-left: 85%;
+}
+#ticketbutton {
+  background-color: Black;
+  color: white;
+  height: 2rem;
+}
+#ticketbutton:hover {
+  background-color: gray;
+}
+#con1 {
+  width: 100%;
+  text-align: center;
+}
+#con11 {
+  font-size: 2rem;
+}
+#mail {
+  width: 50%;
+  height: 15rem;
+  float: left;
+  //border:solid;
+  /* text-align:center;0 */
+}
+#form {
+  width: 49%;
+  height: 15rem;
+  //border:solid;
+  float: left;
+}
+#mailtable {
+  font-size: 1.5rem;
+  padding-left: 20rem;
+  padding-top: 4rem;
+}
+#iformtable {
+  height: 2rem;
+  width: 15rem;
+}
+#iformtable1 {
+  height: 3rem;
+  width: 30.8rem;
+  margin-top: 1rem;
+}
+#formli1 {
+  margin-top: 4rem;
+  height: 2rem;
+}
+#listticketbutton {
+  background-color: black;
+  color: white;
+  height: 2rem;
+  width: 4rem;
+  margin-top: 1rem;
+  margin-left: 27.3rem;
+}
+#listticketbutton:hover {
+  background-color: gray;
+}
+#mapimg {
+  width: 100%;
+  height: 500px;
+}
+
+#listticket1 {
+  text-align: flex;
+  list-style: none;
+  height: 5rem;
+  padding-left: 40rem;
+  padding-top: 4rem;
+}
+.header {
+  height: 3rem;
+  width: 100%;
+  background-color: black;
+  position: fixed;
+  /* display:flex; */
+  /* justify-content:space-between; */
+}
+.inner {
+  width: 7rem;
+  height: 2.6rem;
+  color: white;
+  float: left;
+  font-size: 1.8rem;
+  text-align: center;
+  padding-top: 0.4rem;
+  overflow: hidden;
+}
+.inner1 {
+  width: 7rem;
+  height: 2.6rem;
+  color: white;
+  float: left;
+  font-size: 1.8rem;
+  text-align: center;
+  padding-top: 0.4rem;
+  overflow: hidden;
+}
+.inner-header-left {
+  height: 2.6rem;
+  width: 80%;
+  //border:2px solid white;
+  float: left;
+}
+.inner-header-right {
+  height: 2.6rem;
+  width: 15%;
+  //border: 2px solid white;
+  float: right;
+}
+.inner:hover {
+  background-color: gray;
+}
+.inner1:hover {
+  background-color: black;
+  height: 10rem;
+  width: 12rem;
+  /* position:absolute; */
+  /* z-index:+1; */
+}
+.icon {
+  font-size: 2rem;
+  float: right;
+  color: white;
+  padding-left: 1rem;
+  padding-right: 1rem;
+  padding-top: 0.6rem;
+  padding-bottom: 0.4rem;
+  cursor: pointer;
+}
+.icon:hover {
+  background-color: red;
+}
+.li1 {
+  font-size: 1rem;
+  padding-left: 0;
+  padding-right: 0;
+  text-align: left;
+}
+.o1 {
+  margin-left: 33%;
+  margin-top: -120px;
+  font-size: 1rem;
+  color: white;
+}
+.imgband {
+  height: 10rem;
+  width: 10rem;
+  /* float:left;   */
+  padding-right: 3rem;
+}
+.bandimg {
+  /* width:100%; */
+  /* margin-left:30rem; */
+  text-align: center;
+  margin-left: 28%;
+  margin-right: 28%;
+  padding-left: 3%;
+}
+.tdimg {
+  padding-right: 2.3rem;
+}
+.c2 {
+  text-align: justify;
+  margin-left: 30%;
+  margin-right: 30%;
+  margin-top: 4%;
+}
+.imgny {
+  float: left;
+  /* margin-left:rem; */
+  /* width:42%; */
+  /* margin-top:2rem; */
+}
+
+.imgp {
+  /* width:15%; */
+  float: left;
+  /* margin-left:0; */
+  margin-left: 1rem;
+  /* margin-top:2rem; */
+}
+.imgsf {
+  /* width:35%; */
+  float: left;
+  /* margin-left:0; */
+  margin-left: 1rem;
+  /* margin-top:2rem; */
+}
+.ticketbook {
+  height: 9rem;
+  background-color: black;
+  color: white;
+  overflow: hidden;
+  transition: height 3s;
+}
+.ticketbook:hover {
+  height: 45rem;
+}
+.written {
+  text-align: center;
+  font-size: 2rem;
+}
+.written1 {
+  margin-left: 28%;
+  margin-top: 2%;
+}
+.i1 {
+  height: 10rem;
+  width: 12rem;
+}
+.img {
+  margin-left: 30.6%;
+  margin-top: 3rem;
+}
+.p11 {
+  background-color: white;
+  color: black;
+  margin-top: 0;
+  text-align: center;
+  /* padding-left:1rem; */
+}
+.icon1 {
+  height: 2rem;
+  width: 1rem;
+}
